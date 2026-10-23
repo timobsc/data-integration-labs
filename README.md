@@ -9,8 +9,7 @@ Dieses Repository enthält meine wöchentlichen Laborübungen und Ausarbeitungen
 
 ## Übersicht der Labs
 
-| Lab | Thema | Ordner / Dateien |
-| **Lab 01** | Open Source Software and Open Data | [labs/01/](labs/01/) ([Cheat Sheet](labs/01/cheatsheet.md) · [Open Source](labs/01/open-source.md) · [Dataset Profile](labs/01/dataset.md)) |
+**Lab 01** | Open Source Software and Open Data | [labs/01/](labs/01/) ([Cheat Sheet](labs/01/cheatsheet.md) · [Open Source](labs/01/open-source.md) · [Dataset Profile](labs/01/dataset.md)) |
 
 ## Licence
 
