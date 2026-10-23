@@ -3,7 +3,7 @@
 Dieses Repository enthält meine wöchentlichen Laborübungen und Ausarbeitungen für den Kurs **Data Integration** im Wintersemester 2026/27 an der TH Köln.
 
 ## Links & Projektinfo
-* **Autor:** [timobsc]([GitHub-Profil](https://github.com/<dein-username>))
+* **Autor:** ([timobsc(https://github.com/<dein-username>))
 * **Kurs-Repository:** [breuert/data-integration](https://github.com/breuert/data-integration)
 * **Team-Projekt-Repository:** [Gruppen-Repository]()
 
