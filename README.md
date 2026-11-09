@@ -5,7 +5,7 @@ Dieses Repository enthält meine wöchentlichen Laborübungen und Ausarbeitungen
 ## Links & Projektinfo
 * **Autor:** [timobsc](https://github.com/<dein-username>)
 * **Kurs-Repository:** [breuert/data-integration](https://github.com/breuert/data-integration)
-* **Team-Projekt-Repository:** [Gruppen-Repository]()
+* **Team-Projekt-Repository:** [Gruppen-Repository](https://github.com/data-integration-HMDT/data-integration-project)
 
 ## Übersicht der Labs
 
